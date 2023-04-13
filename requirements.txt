@@ -1,0 +1,9 @@
+deta==1.1.0
+fastapi==0.92.0
+passlib
+pydantic==1.10.4
+python-dotenv==1.0.0
+bcrypt
+requests==2.22.0
+starlette==0.25.0
+cryptography
